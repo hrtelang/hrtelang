@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Hrishi
-- 👀 I’m interested in Data Science, Deep Learning, NLP and learning new languages (programming and otherwise)
-- 🌱 I’m currently learning Swift, iOS App Development and UI Design
+- 👋 Hi, I’m Hrishi!
+- 👀 I’m interested in Data Science, Responsible AI and the intersection of tech and business.
+- 🌱 I’m currently learning iOS App Development, UI Design and Spanish 🇲🇽.
+- 🌈 Check out this iOS app I created - Rainbow Radar : https://apps.apple.com/us/app/rainbow-radar/id6470735548
 - 📫 Reach me at hr.telang@gmail.com or on Linkedin https://www.linkedin.com/in/hrishikesh-telang1997/ 
 
 <!---
